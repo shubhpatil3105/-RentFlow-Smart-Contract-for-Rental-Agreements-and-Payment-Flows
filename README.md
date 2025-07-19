@@ -6,7 +6,7 @@ RentFlow is a decentralized rental agreement    and payment system powered by sm
 
 ## 🎯 Project Vision
 
-To eliminate middlemen and provide a transparent, tamper-proof rental experience where lease terms and payments are enforced by code rather than trust.
+To eliminate middlemen and provide a transparent, tamper-proof rental expe       rience where lease terms and payments are enforced by code rather than trust.
 
 ## ✨ Key Features
 
