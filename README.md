@@ -2,7 +2,7 @@
 
 ## 📄 Project Description
 
-RentFlow is a decentralized rental agreement and payment system powered by s    mart contracts. It allows landlords and tenants to engage in trustless rental contracts with automatic payment tracking and enforcement.    
+RentFlow is a decentralized rental agreement and payment system powered by smart contracts. It allows landlords and tenants to engage in trustless rental contracts with automatic payment tracking and enforcement.    
 
 ## 🎯 Project Vision
 
