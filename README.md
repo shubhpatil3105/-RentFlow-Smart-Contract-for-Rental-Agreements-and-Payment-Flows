@@ -8,7 +8,7 @@ RentFlow is a decentralized rental agreement and payment system powered by smart
 
 To eliminate middlemen and provide a transparent, tamper-proof rental experience where lease terms and payments are enforced by code rather than trust.
 
-## ✨ Key Features
+## ✨ Key Featur
 
 - 🏡 Create and manage digital rental agreements
 - 💰 Automated rent collection and transfer to landlord
