@@ -1,4 +1,4 @@
-# RentFlow – Smart Contract for Rental Agreements and    Payment Flows
+# RentFlow – Smart Contract for Rental Agreements and Payment Flows
 
 ## 📄 Project   Description
 
